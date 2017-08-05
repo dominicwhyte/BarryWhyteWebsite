@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[if IE 9]>
+<html class="ie9" lang="en">    <![endif]-->
+<!--[if IE 8]>
+<html class="ie8" lang="en">    <![endif]-->
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name=viewport content="width=device-width, initial-scale=1">
+
+   <title>Dominic Whyte | Projects</title>
+
+   <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
+   <meta name="keywords" content="html5, template, website, responsive, bootstrap">
+   <meta name="author" content="neuethemes">
+
+   <!-- Preloader -->
+   <link href="assets/custom/2.2.0/css/preloader.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+
+   <!-- CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" media="screen">
+   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+   <link href="assets/vendor/flaticons/flaticon.min.css?v=29022016" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+   <link href="assets/vendor/hover/css/hover-min.css?v=2.0.2" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+   <link href="assets/vendor/mfp/css/magnific-popup.min.css?v=1.1.0" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+   <link href="assets/vendor/owl-carousel/assets/owl.carousel.min.css?v=2.1.0" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+
+   <!-- Custom styles -->
+   <link href="assets/custom/2.2.0/css/style.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+   <link href="assets/custom/2.2.0/css/layouts/samuel.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+   <link href="assets/custom/2.2.0/css/colors/default.css" id="color-styles" property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
+</head>
+
+<body id="samuel">
+
+<!--Pre-Loader-->
+<div id="preloader"></div>
+
+<header>
+   <section id="top-navigation" class="container-fluid nopadding">
+      <div class="row nopadding ident ui-bg-color01">
+         <!-- Photo -->
+         <a href="index.html">
+            <div class="col-md-4 vc-photo photo-01">&nbsp;</div>
+         </a>
+         <!-- /Photo -->
+         <div class="col-md-8 vc-name nopadding">
+            <!-- Name-Position -->
+            <div class="row nopadding name">
+               <div class="col-md-10 name-title"><h1 class="font-accident-two-extralight">Dominic Whyte</h1></div>
+               <div class="col-md-2 nopadding name-pdf">
+                  <!-- <a href="./resume.pdf" class="hvr-sweep-to-right"><i class="flaticon-graduation61" title="View Resume"></i></a> -->
+               </div>
+            </div>
+            <div class="row nopadding position">
+               <div class="col-md-10 position-title">
+
+                  <section class="cd-intro">
+                     <h2 class="cd-headline clip is-full-width font-accident-two-light">
+                        <span>Interested in </span>
+                        <span class="cd-words-wrapper">
+                           <b class="is-visible">Internet of Things</b>
+                           <b>Graph Theory</b>
+                           <b>Blockchain</b>
+                           <b>Business Consulting</b>
+                           <b>Functional Programming</b>
+                           <b>Entrepreneurship</b>
+                           <b>App Development</b>
+                        </span>
+                     </h2>
+                  </section>
+
+               </div>
+               <div class="col-md-2 nopadding pdf">
+                  <!-- Fight off those email scrapers -->
+                  <!-- <a href="mailto:dwhyte&#64;princeton.edu" class="hvr-sweep-to-right"><i class="flaticon-circle-5" title="Email Me"></i></a> -->
+               </div>
+            </div>
+            <!-- /Name-Position -->
+
+            <!-- Main Navigation -->
+
+            <ul id="nav" class="row nopadding cd-side-navigation">
+               <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color01" data-animation-duration="1000" data-animation-delay="100">
+                  <a href="index.html" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
+               </li>
+               <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color02" data-animation-duration="1000" data-animation-delay="300">
+                  <a href="resume.html" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
+               </li>
+               <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color03" data-animation-duration="1000" data-animation-delay="500">
+                  <a href="projects.html" class="hvr-sweep-to-bottom"><i class="flaticon-book-bag2"></i><span>projects</span></a>
+               </li>
+               <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color04" data-animation-duration="1000" data-animation-delay="700">
+                  <a href="contacts.html" class="hvr-sweep-to-bottom"><i class="flaticon-placeholders4"></i><span>contact</span></a>
+               </li>
+               <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color05" data-animation-duration="1000" data-animation-delay="900">
+                  <a href="now.html" class="hvr-sweep-to-bottom"><i class="flaticon-clocks18"></i><span>now</span></a>
+               </li>
+               <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color06" data-animation-duration="1000" data-animation-delay="1100">
+                  <a href="blog-3-col.html" class="hvr-sweep-to-bottom"><i class="flaticon-pens15"></i><span>blog</span></a>
+               </li>
+            </ul>
+
+            <!-- /Main Navigation -->
+
+         </div>
+      </div>
+   </section>
+</header>
+
+<!-- Container -->
+<div class="content-wrap">
+
+   <div id="portfolio2" class="inner-content">
+
+      <section id="page-title" class="inner-section ui-menu-color03">
+         <div class="container-fluid nopadding">
+            <h2 class="font-accident-two-bold color01"
+                data-animation-origin="right"
+                data-animation-duration="400"
+                data-animation-delay="100"
+                data-animation-distance="50px">Projects</h2>
+            <p class="font-accident-two-light color01 subtitle"
+                data-animation-origin="right"
+                data-animation-duration="400"
+                data-animation-delay="200"
+                data-animation-distance="50px"></p>
+            <p class="small color01"
+               data-animation-origin="right"
+               data-animation-duration="400"
+               data-animation-delay="300"
+               data-animation-distance="50px">
+               A few of the projects I've worked on - click on each one for more details!
+            </p>
+         </div>
+      </section>
+
+
+      <!-- Portfolio Block -->
+      <section id="portfolio-block" class="inner-section" data-section="portfolio">
+
+         <div class="dividewhite6"></div>
+
+         <div id="isotope-filters" class="port-filter port-filter-light text-center"
+              data-animation-origin="top"
+              data-animation-duration="500"
+              data-animation-delay="200"
+              data-animation-distance="25px">
+            <ul>
+               <li><a href="#cat1" data-filter="*">All</a></li>
+               <li><a href="#cat5" data-filter=".top3">Top 3</a></li>
+               <li><a href="#cat2" data-filter=".mobile">Mobile Apps</a></li>
+               <li><a href="#cat3" data-filter=".web">Web Apps</a></li>
+               <li><a href="#cat4" data-filter=".other">Other</a></li>
+            </ul>
+         </div>
+
+         <div class="dividewhite6"></div>
+
+         <div class="row">
+
+            <div class="grid container-fluid text-center">
+
+               <div id="posts" class="row popup-container">
+
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer mobile top3 col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#flockModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/flock.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>Flock: Find Your Flock</h3>
+                                   <p>The going out app</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="flockModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Flock: Find Your Flock</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>Website: <u><a href="http://findyourflock.io/" target="_blank">findyourflock.io</a></u>
+                                <br>
+                                App: <u><a href="https://itunes.apple.com/us/app/flock-find-your-flock/id1211976124?mt=8" target="_blank">iOS</a></u>
+                                <br>
+                                Pitch Deck: <u><a href="https://docs.google.com/presentation/d/1Yr8paciHRXpDfbUnhOwHhOjJJm4oee4_s6Y0TUCyj6Y/edit?usp=sharing" target="_blank">Slides</a></u>
+                                
+                                <br>
+                                <br>
+                                Flock lets you plan your night out and find your friends on the street. Connect with your friends, share plans, see when events are on, and go live at a club so you never miss out on a good night.
+                                <br>
+                                <br>
+                                </p>
+
+                                <div class="row">
+                                   <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
+                                      <div class="video-container" >
+                                         <iframe src="https://player.vimeo.com/video/215598257"></iframe>
+                                      </div>
+                                   </div>
+                                </div>
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+
+                     <!-- Start Item -->
+                    <div class="grid-item grid-sizer mobile col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#leverModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/lever.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>Lever</h3>
+                                   <p>Project-based Charity App</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="leverModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Lever</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>App: <u><a href="https://itunes.apple.com/US/app/id1190751827?mt=8" target="_blank">iOS</a></u>
+                                <br>
+                                <br>
+                                Lever is a Swift Firebase iOS app that I built for a client. It is a social network for helping others, letting you explore and contribute to charitable projects which are subsequently brought to reality.
+                                <br>
+                                <br>
+                                </p>
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer web top3 col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#lottodealModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/lottodeal.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>Lottodeal</h3>
+                                   <p>Lottery e-commerce platform</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="lottodealModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">LottoDeal</h4>
+                             </div>
+                             <div class="modal-body">
+
+
+                                <p>Website: <u><a href="http://lottodeal.us/" target="_blank">lottodeal.us</a></u>
+                                <br>
+                                Presentation: <u><a href="https://docs.google.com/presentation/d/1btvT_VNoMlumTMtvTIIL5abBUQuWbKv6Ss88IkE-ldU/edit?usp=sharing" target="_blank">Slides</a></u>
+                                <br>
+                                <br>
+                                LottoDeal is a revolutionary new platform that combines the psychological appeal of lotteries with an e-commerce marketplace. Each seller is matched with hundreds of interested micro-bidders who can buy virtual “lottery tickets” for any item. When the item reaches its goal, it is lotteried off, where each bidder has a chance of winning the item proportional to the amount that they bid. This helps buyers bid on items they desire, but don’t necessarily need to win, at a fraction of the cost, all the while allowing sellers to utilize economies of scale to sell their items as fast as possible.
+                                <br>
+                                <br>
+                                I was a part of the team of 5 that built LottoDeal for a course at Princeton (COS333). We built the app using the MEAN stack, with my main focus being on the backend, implementing an item suggestions algorithm, handling the database and managing the lotteries/payments side of the app. I also got my feet wet with AngularJS for some Front End Dev.
+                                <br>
+                                <br>
+                                </p>
+                                <div class="row">
+                                   <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
+                                      <div class="video-container" >
+                                         <iframe src="https://player.vimeo.com/video/217399684"></iframe>
+                                      </div>
+                                   </div>
+                                </div>
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer other top3 col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#domcoinModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/domcoin.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>DomCoin</h3>
+                                   <p>Blockchain Cryptocurrency</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="domcoinModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">DomCoin</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>Paper: <u><a href="https://drive.google.com/file/d/0B2JcuoW0N_ZnUXYzWnY0Q3BKTE0/view?usp=sharing" target="_blank">Document</a></u>
+                                <br>
+                                Appendix: <u><a href="https://drive.google.com/file/d/0B2JcuoW0N_ZnNjNOaXd1RDQxOXM/view?usp=sharing" target="_blank">Document</a></u>
+                                <br>
+                                Presentation: <u><a href="https://drive.google.com/file/d/0B2JcuoW0N_ZnVnBxSjlWZW5Wclk/view?usp=sharing" target="_blank">Slides</a></u>
+                                <br>
+                                <br>
+                                DomCoin was my first CS project, which I began after my introduction to computer science half-way through my freshman year at Princeton. The project consisted of developing and implemented a cryptocurrency in Java using blockchain technology, RSA encryption, and a mining mechanism based on SHA­256.
+                                <br>
+                                <br>
+                                </p>
+
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+                    
+
+
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer mobile col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#relayrModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/smartoffice.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>Relayr Office IoT</h3>
+                                   <p>Internet of Things App</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="relayrModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Relayr Office IoT</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>App: <u><a href="https://itunes.apple.com/us/app/office-iot/id1142287599?mt=8" target="_blank">iOS</a></u>
+                                <br>
+                                <br>
+                                Welcome to relayr’s Smart Office prototype app, an IoT solution for connecting your surroundings to the internet. See how you can monitor a multitude of systems in one place, from which windows are open in a given building to how many people are inside and the ambient temperature. Given the relayr login credentials, you can view live data from relayr’s office in Berlin. Otherwise, select the demo to see a simulation of what relayr’s cloud solution can do for you.
+                                <br>
+                                <br>
+                                I built Office IoT during my internship at Relayr during the Summer of 2016.
+                                <br>
+                                <br>
+                                </p>
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer mobile col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#IgniteSTEMModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/ignitestem.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>IgniteSTEM App</h3>
+                                   <p>EdTech Video Sharing App</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="IgniteSTEMModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">IgniteSTEM</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>App: <u><a href="https://itunes.apple.com/in/app/ignitestem/id1158466260?mt=8" target="_blank">iOS</a></u>
+                                <br>
+                                <br>
+                                The IgniteSTEM app gives you exclusive access to talks from thought leaders including Stephen Wolfram, founder and CEO of Wolfram Research, Mike Swift, founder of Major League Hacking, Dale Dougherty, founder and CEO of Maker Media and many more.
+                                <br>
+                                <br>
+                                I built this app for IgniteSTEM, an Ed-tech venture at Princeton.
+                                <br>
+                                <br>
+                                </p>
+                                
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer mobile col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#ventureModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/venture.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>Venture App</h3>
+                                   <p>Video-sharing for action sports</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="ventureModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Venture</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>Pitch Deck: <u><a href="https://drive.google.com/file/d/0B2JcuoW0N_ZnSlRmOC0zV2k0R28/view?usp=sharing" target="_blank">Slides</a></u>
+                                <br>
+                                <br>
+                                Venture is a social media community for action sports enthusiasts, frequent travelers, and the creative minded to interact with each other and share like-minded content. The mobile application incorporates virtual reality and geolocation technology to immerse users in an action-packed and collaborative experience.
+                                <br>
+                                <br>
+                                I built the Venture iOS prototype, which helped get the Venture team into the <u><a href="http://fownders.com/">Fownders</a></u> startup accelerator.
+                                <br>
+                                <br>
+                                </p>
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+                    <!-- Start Item -->
+                    <div class="grid-item grid-sizer mobile col-xs-6 col-sm-4 col-md-3">
+                       <div class="item-wrap" data-toggle="modal" data-target="#punmeModal">
+                          <figure class="effect-goliath"
+                             data-animation-origin="right"
+                             data-animation-duration="400"
+                             data-animation-delay="400"
+                             data-animation-distance="50px">
+                             <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/punme.png" class="img-responsive" alt="img11"/>
+                             <figcaption>
+                                <div class="fig-description">
+                                   <h3>PunMe</h3>
+                                   <p>Generate Puns from Photos</p>
+                                </div>
+                             </figcaption>
+                          </figure>
+                       </div>
+                    </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="punmeModal" role="dialog">
+                       <div class="modal-dialog modal-lg">
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                             <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">PunMe</h4>
+                             </div>
+                             <div class="modal-body">
+                                <p>Worked on a team of four on an app that generates puns based on the contents of an image. I developed the Swift iOS app and collaborated on the AWS backend server, which uses Microsoft Computer Vision and Google's Natural Language processing API.
+                                </p>
+                             </div>
+                             <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                    <!-- End Item -->
+
+
+
+               </div>
+            </div>
+
+         </div>
+
+         <div class="dividewhite8"></div>
+
+      </section>
+      <!-- /Portfolio Block -->
+
+   </div>
+
+</div>
+
+<footer class="padding-50 dark ui-bg-color01"
+        data-animation-origin="top"
+        data-animation-duration="500"
+        data-animation-delay="800"
+        data-animation-distance="50px">
+   <div class="container-fluid nopadding">
+      <div class="col-sm-3 col-md-offset-5">
+            <div class="follow">
+               <ul class="list-inline social">
+                  <li><a target="_blank" href="https://www.linkedin.com/in/dominicwhyte/" class="rst-icon-linkedin"><i class="fa fa-linkedin"></i></a></li>
+                  <li><a target="_blank" href="https://github.com/dominicwhyte" class="rst-icon-github"><i class="fa fa-github"></i></a></li>
+               </ul>
+            </div>
+      </div>
+   </div>
+</footer>
+
+<!-- Back to Top -->
+<div id="back-top"></div>
+<!-- /Back to Top -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
+<script src="https://unpkg.com/scrollreveal@3.3.2/dist/scrollreveal.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>
+
+<script src="assets/vendor/mfp/js/jquery.magnific-popup.min.js?v=1.1.0" type="text/javascript"></script>
+<script src="assets/vendor/progressbar/progressbar.min.js?v=1.0.1" type="text/javascript"></script>
+<script src="assets/vendor/anicounter/jquery.counterup.min.js?v=1.0" type="text/javascript"></script>
+<script src="assets/vendor/pjax/jquery.pjax.min.js?v=1.9.6" type="text/javascript"></script>
+<script src="assets/vendor/owl-carousel/owl.carousel.min.js?v=2.1.0" type="text/javascript"></script>
+<script src="assets/vendor/headlines/headlines.min.js?v=1.0" type="text/javascript"></script>
+
+<!-- Custom scripts -->
+<script src="assets/custom/2.2.0/js/animation.js" type="text/javascript"></script>
+<script src="assets/custom/2.2.0/js/custom.js" type="text/javascript"></script>
+
+</body>
+</html>
